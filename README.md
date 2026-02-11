@@ -1,7 +1,7 @@
 # Adjustable DC Power Supply Unit (1.2V - 30V)
 
 ![Status](https://img.shields.io/badge/Status-Prototype-yellow)
-![Tool](https://img.shields.io/badge/Tool-Proteus%208-blue)
+![Tool](https://img.shields.io/badge/Tool-Proteus%209-blue)
 ![Hardware](https://img.shields.io/badge/Hardware-PCB%20%2F%20Breadboard-green)
 
 ## Project Overview
