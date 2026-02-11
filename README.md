@@ -31,22 +31,22 @@ The circuit utilizes the **LM338T** linear voltage regulator for high-current ad
 
 ### 1. Circuit Schematic (Proteus)
 The circuit was designed and simulated in Proteus Design Suite.
-![Circuit Diagram](schematics/circuit_diagram.png)
+![Circuit Diagram](Schematics/circuit_diagram.png)
 
 ### 2. AC Input Stage & Rectification
 High-power AC/DC conversion stage featuring a 100VA transformer and KBPC3510 bridge rectifier.
-![Transformer Assembly](schematics/transformer_rectifier_assembly.jpg)
+![Transformer Assembly](Schematics/transformer_rectifier_assembly.jpg)
 
 ### 3. Prototype Assembly (Breadboard)
 Initial build for voltage verification, thermal testing, and load regulation analysis.
-![Breadboard Prototype](schematics/breadboard_setup.jpg)
+![Breadboard Prototype](Schematics/breadboard_setup.jpg)
 
 ## Documentation
-* **[Bill of Materials (BOM)](docs/Bill_of_Materials.pdf):** Detailed list of all components used in this project.
+* **[Bill of Materials (BOM)](Docs/Bill_of_Materials.pdf):** Detailed list of all components used in this project.
 * **Datasheets:** Technical references for key components can be found in the `docs/` folder.
 
 ## Simulation
-The simulation files are located in the `simulation/` directory. You can run the `.pdsprj` file using **Proteus 9**.
+The simulation files are located in the `Simulation/` directory. You can run the `.pdsprj` file using **Proteus 9**.
 
 ---
 *Author: Halil Alperen Nisevci*
