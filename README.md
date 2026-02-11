@@ -35,7 +35,7 @@ The circuit was designed and simulated in Proteus Design Suite.
 
 ### 2. AC Input Stage & Rectification
 High-power AC/DC conversion stage featuring a 100VA transformer and KBPC3510 bridge rectifier.
-![Transformer Assembly](Schematics/transformer_rectifier_assembly.jpg)
+![Transformer Assembly](Schematics/transformer_rectifier_assembly.JPG)
 
 ### 3. Prototype Assembly (Breadboard)
 Initial build for voltage verification, thermal testing, and load regulation analysis.
