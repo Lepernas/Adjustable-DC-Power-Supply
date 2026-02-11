@@ -49,4 +49,4 @@ Initial build for voltage verification, thermal testing, and load regulation ana
 The simulation files are located in the `simulation/` directory. You can run the `.pdsprj` file using **Proteus 9**.
 
 ---
-*Author: [Halil Alperen Nisevci]*
+*Author: Halil Alperen Nisevci*
