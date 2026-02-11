@@ -5,7 +5,7 @@
 ![Hardware](https://img.shields.io/badge/Hardware-PCB%20%2F%20Breadboard-green)
 
 ## Project Overview
-This project involves the design, simulation, and prototyping of a robust dual-output DC power supply unit. The system is designed to provide a **fixed 12V output** for auxiliary cooling and a generic **adjustable output (1.2V - 30V)** for laboratory bench use.
+This project involves the design, simulation, and prototyping of a dual-output DC power supply unit. The system is designed to provide a **fixed 12V output** for auxiliary cooling and a generic **adjustable output (1.2V - 30V)** for laboratory bench use.
 
 The circuit utilizes the **LM338T** linear voltage regulator for high-current adjustable output and the **L7812** for stable fixed voltage, ensuring reliability under load with integrated thermal management.
 
